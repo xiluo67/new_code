@@ -1,0 +1,4 @@
+Lr: 2.370e-05 | Update: nan mean,nan std | Epoch: [0][0/422] | Time 3.755 (3.755) | Data 0.251 (0.251) | Loss nan (nan) | acc 0.000 (0.000) | IoU 0.000 (0.000) | [4:41:43]
+Lr: 2.607e-04 | Update: nan mean,nan std | Epoch: [0][10/422] | Time 0.549 (0.837) | Data 0.043 (0.060) | Loss nan (nan) | acc 0.000 (0.000) | IoU 0.000 (0.000) | [1:02:55]
+Lr: 4.976e-04 | Update: nan mean,nan std | Epoch: [0][20/422] | Time 0.534 (0.696) | Data 0.036 (0.050) | Loss nan (nan) | acc 0.000 (0.000) | IoU 0.000 (0.000) | [0:52:11]
+Lr: 7.346e-04 | Update: nan mean,nan std | Epoch: [0][30/422] | Time 0.536 (0.645) | Data 0.036 (0.046) | Loss nan (nan) | acc 0.000 (0.000) | IoU 0.000 (0.000) | [0:48:17]

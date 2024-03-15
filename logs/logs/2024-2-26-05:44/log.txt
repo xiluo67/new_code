@@ -1,0 +1,280 @@
+Lr: 1.667e-03 | Update: 2.259e-01 mean,4.180e-01 std | Epoch: [0][0/6] | Time 3.666 (3.666) | Data 0.220 (0.220) | Loss 4.1347 (4.1347) | acc 0.055 (0.055) | IoU 0.014 (0.014) | [0:03:49]
+Validation set:
+Time avg per batch 0.467
+Loss avg 3.9180
+Jaccard avg 0.9488
+WCE avg 2.9692
+Acc avg 0.000
+IoU avg 0.000
+IoU class 0 [unlabeled] = 0.000
+IoU class 1 [car] = 0.000
+IoU class 2 [bicycle] = 0.000
+IoU class 3 [motorcycle] = 0.000
+IoU class 4 [truck] = 0.000
+IoU class 5 [other-vehicle] = 0.000
+IoU class 6 [person] = 0.000
+IoU class 7 [bicyclist] = 0.000
+IoU class 8 [motorcyclist] = 0.000
+IoU class 9 [road] = 0.000
+IoU class 10 [parking] = 0.000
+IoU class 11 [sidewalk] = 0.000
+IoU class 12 [other-ground] = 0.000
+IoU class 13 [building] = 0.000
+IoU class 14 [fence] = 0.000
+IoU class 15 [vegetation] = 0.000
+IoU class 16 [trunk] = 0.000
+IoU class 17 [terrain] = 0.000
+IoU class 18 [pole] = 0.000
+IoU class 19 [traffic-sign] = 0.000
+Lr: 1.000e-02 | Update: 3.115e-02 mean,5.830e-02 std | Epoch: [1][0/6] | Time 0.647 (0.858) | Data 0.354 (0.111) | Loss 3.8825 (3.8825) | acc 0.100 (0.100) | IoU 0.024 (0.024) | [0:00:55]
+Validation set:
+Time avg per batch 0.458
+Loss avg 3.9411
+Jaccard avg 0.9483
+WCE avg 2.9928
+Acc avg 0.000
+IoU avg 0.001
+IoU class 0 [unlabeled] = 0.000
+IoU class 1 [car] = 0.000
+IoU class 2 [bicycle] = 0.000
+IoU class 3 [motorcycle] = 0.000
+IoU class 4 [truck] = 0.000
+IoU class 5 [other-vehicle] = 0.000
+IoU class 6 [person] = 0.000
+IoU class 7 [bicyclist] = 0.000
+IoU class 8 [motorcyclist] = 0.000
+IoU class 9 [road] = 0.000
+IoU class 10 [parking] = 0.000
+IoU class 11 [sidewalk] = 0.000
+IoU class 12 [other-ground] = 0.000
+IoU class 13 [building] = 0.000
+IoU class 14 [fence] = 0.000
+IoU class 15 [vegetation] = 0.000
+IoU class 16 [trunk] = 0.000
+IoU class 17 [terrain] = 0.000
+IoU class 18 [pole] = 0.010
+IoU class 19 [traffic-sign] = 0.000
+Lr: 9.900e-03 | Update: 8.187e-03 mean,1.475e-02 std | Epoch: [2][0/6] | Time 0.601 (0.638) | Data 0.296 (0.097) | Loss 3.2450 (3.2450) | acc 0.238 (0.238) | IoU 0.053 (0.053) | [0:00:37]
+Validation set:
+Time avg per batch 0.454
+Loss avg 4.0809
+Jaccard avg 0.9499
+WCE avg 3.1309
+Acc avg 0.001
+IoU avg 0.000
+IoU class 0 [unlabeled] = 0.000
+IoU class 1 [car] = 0.000
+IoU class 2 [bicycle] = 0.000
+IoU class 3 [motorcycle] = 0.000
+IoU class 4 [truck] = 0.000
+IoU class 5 [other-vehicle] = 0.000
+IoU class 6 [person] = 0.000
+IoU class 7 [bicyclist] = 0.000
+IoU class 8 [motorcyclist] = 0.000
+IoU class 9 [road] = 0.000
+IoU class 10 [parking] = 0.000
+IoU class 11 [sidewalk] = 0.000
+IoU class 12 [other-ground] = 0.000
+IoU class 13 [building] = 0.000
+IoU class 14 [fence] = 0.000
+IoU class 15 [vegetation] = 0.000
+IoU class 16 [trunk] = 0.000
+IoU class 17 [terrain] = 0.000
+IoU class 18 [pole] = 0.008
+IoU class 19 [traffic-sign] = 0.000
+Lr: 9.801e-03 | Update: 8.387e-03 mean,1.865e-02 std | Epoch: [3][0/6] | Time 0.641 (0.561) | Data 0.329 (0.093) | Loss 2.7718 (2.7718) | acc 0.298 (0.298) | IoU 0.066 (0.066) | [0:00:29]
+Validation set:
+Time avg per batch 0.456
+Loss avg 4.4699
+Jaccard avg 0.9508
+WCE avg 3.5191
+Acc avg 0.004
+IoU avg 0.003
+IoU class 0 [unlabeled] = 0.000
+IoU class 1 [car] = 0.027
+IoU class 2 [bicycle] = 0.000
+IoU class 3 [motorcycle] = 0.000
+IoU class 4 [truck] = 0.000
+IoU class 5 [other-vehicle] = 0.000
+IoU class 6 [person] = 0.000
+IoU class 7 [bicyclist] = 0.000
+IoU class 8 [motorcyclist] = 0.000
+IoU class 9 [road] = 0.005
+IoU class 10 [parking] = 0.000
+IoU class 11 [sidewalk] = 0.000
+IoU class 12 [other-ground] = 0.000
+IoU class 13 [building] = 0.000
+IoU class 14 [fence] = 0.000
+IoU class 15 [vegetation] = 0.000
+IoU class 16 [trunk] = 0.000
+IoU class 17 [terrain] = 0.000
+IoU class 18 [pole] = 0.024
+IoU class 19 [traffic-sign] = 0.000
+Lr: 9.703e-03 | Update: 1.964e-03 mean,3.420e-03 std | Epoch: [4][0/6] | Time 0.621 (0.521) | Data 0.303 (0.090) | Loss 2.1994 (2.1994) | acc 0.388 (0.388) | IoU 0.092 (0.092) | [0:00:23]
+Validation set:
+Time avg per batch 0.450
+Loss avg 4.4296
+Jaccard avg 0.9194
+WCE avg 3.5102
+Acc avg 0.164
+IoU avg 0.023
+IoU class 0 [unlabeled] = 0.000
+IoU class 1 [car] = 0.030
+IoU class 2 [bicycle] = 0.000
+IoU class 3 [motorcycle] = 0.000
+IoU class 4 [truck] = 0.000
+IoU class 5 [other-vehicle] = 0.000
+IoU class 6 [person] = 0.000
+IoU class 7 [bicyclist] = 0.000
+IoU class 8 [motorcyclist] = 0.000
+IoU class 9 [road] = 0.372
+IoU class 10 [parking] = 0.000
+IoU class 11 [sidewalk] = 0.000
+IoU class 12 [other-ground] = 0.000
+IoU class 13 [building] = 0.000
+IoU class 14 [fence] = 0.000
+IoU class 15 [vegetation] = 0.000
+IoU class 16 [trunk] = 0.000
+IoU class 17 [terrain] = 0.000
+IoU class 18 [pole] = 0.035
+IoU class 19 [traffic-sign] = 0.000
+Lr: 9.606e-03 | Update: 1.614e-03 mean,2.726e-03 std | Epoch: [5][0/6] | Time 0.620 (0.496) | Data 0.303 (0.088) | Loss 1.9750 (1.9750) | acc 0.485 (0.485) | IoU 0.137 (0.137) | [0:00:18]
+Validation set:
+Time avg per batch 0.443
+Loss avg 4.6965
+Jaccard avg 0.9042
+WCE avg 3.7923
+Acc avg 0.149
+IoU avg 0.019
+IoU class 0 [unlabeled] = 0.000
+IoU class 1 [car] = 0.014
+IoU class 2 [bicycle] = 0.000
+IoU class 3 [motorcycle] = 0.000
+IoU class 4 [truck] = 0.000
+IoU class 5 [other-vehicle] = 0.000
+IoU class 6 [person] = 0.000
+IoU class 7 [bicyclist] = 0.000
+IoU class 8 [motorcyclist] = 0.000
+IoU class 9 [road] = 0.337
+IoU class 10 [parking] = 0.000
+IoU class 11 [sidewalk] = 0.000
+IoU class 12 [other-ground] = 0.000
+IoU class 13 [building] = 0.000
+IoU class 14 [fence] = 0.000
+IoU class 15 [vegetation] = 0.000
+IoU class 16 [trunk] = 0.000
+IoU class 17 [terrain] = 0.000
+IoU class 18 [pole] = 0.017
+IoU class 19 [traffic-sign] = 0.000
+Lr: 9.510e-03 | Update: 1.409e-03 mean,2.346e-03 std | Epoch: [6][0/6] | Time 0.652 (0.482) | Data 0.335 (0.088) | Loss 1.7708 (1.7708) | acc 0.566 (0.566) | IoU 0.168 (0.168) | [0:00:14]
+Validation set:
+Time avg per batch 0.439
+Loss avg 5.1240
+Jaccard avg 0.8943
+WCE avg 4.2297
+Acc avg 0.144
+IoU avg 0.020
+IoU class 0 [unlabeled] = 0.000
+IoU class 1 [car] = 0.032
+IoU class 2 [bicycle] = 0.000
+IoU class 3 [motorcycle] = 0.000
+IoU class 4 [truck] = 0.000
+IoU class 5 [other-vehicle] = 0.000
+IoU class 6 [person] = 0.000
+IoU class 7 [bicyclist] = 0.000
+IoU class 8 [motorcyclist] = 0.000
+IoU class 9 [road] = 0.314
+IoU class 10 [parking] = 0.000
+IoU class 11 [sidewalk] = 0.000
+IoU class 12 [other-ground] = 0.000
+IoU class 13 [building] = 0.000
+IoU class 14 [fence] = 0.000
+IoU class 15 [vegetation] = 0.017
+IoU class 16 [trunk] = 0.000
+IoU class 17 [terrain] = 0.000
+IoU class 18 [pole] = 0.018
+IoU class 19 [traffic-sign] = 0.000
+Lr: 9.415e-03 | Update: 1.361e-03 mean,2.181e-03 std | Epoch: [7][0/6] | Time 0.645 (0.470) | Data 0.327 (0.088) | Loss 1.6608 (1.6608) | acc 0.572 (0.572) | IoU 0.184 (0.184) | [0:00:10]
+Validation set:
+Time avg per batch 0.435
+Loss avg 5.3257
+Jaccard avg 0.9039
+WCE avg 4.4219
+Acc avg 0.122
+IoU avg 0.018
+IoU class 0 [unlabeled] = 0.000
+IoU class 1 [car] = 0.023
+IoU class 2 [bicycle] = 0.000
+IoU class 3 [motorcycle] = 0.000
+IoU class 4 [truck] = 0.000
+IoU class 5 [other-vehicle] = 0.000
+IoU class 6 [person] = 0.000
+IoU class 7 [bicyclist] = 0.000
+IoU class 8 [motorcyclist] = 0.000
+IoU class 9 [road] = 0.260
+IoU class 10 [parking] = 0.000
+IoU class 11 [sidewalk] = 0.000
+IoU class 12 [other-ground] = 0.000
+IoU class 13 [building] = 0.000
+IoU class 14 [fence] = 0.000
+IoU class 15 [vegetation] = 0.030
+IoU class 16 [trunk] = 0.000
+IoU class 17 [terrain] = 0.000
+IoU class 18 [pole] = 0.020
+IoU class 19 [traffic-sign] = 0.000
+Lr: 9.321e-03 | Update: 2.328e-03 mean,4.519e-03 std | Epoch: [8][0/6] | Time 0.638 (0.462) | Data 0.329 (0.087) | Loss 1.7120 (1.7120) | acc 0.560 (0.560) | IoU 0.172 (0.172) | [0:00:06]
+Validation set:
+Time avg per batch 0.434
+Loss avg 5.5388
+Jaccard avg 0.9021
+WCE avg 4.6367
+Acc avg 0.123
+IoU avg 0.017
+IoU class 0 [unlabeled] = 0.000
+IoU class 1 [car] = 0.015
+IoU class 2 [bicycle] = 0.000
+IoU class 3 [motorcycle] = 0.000
+IoU class 4 [truck] = 0.000
+IoU class 5 [other-vehicle] = 0.000
+IoU class 6 [person] = 0.000
+IoU class 7 [bicyclist] = 0.000
+IoU class 8 [motorcyclist] = 0.000
+IoU class 9 [road] = 0.271
+IoU class 10 [parking] = 0.000
+IoU class 11 [sidewalk] = 0.000
+IoU class 12 [other-ground] = 0.000
+IoU class 13 [building] = 0.000
+IoU class 14 [fence] = 0.000
+IoU class 15 [vegetation] = 0.013
+IoU class 16 [trunk] = 0.000
+IoU class 17 [terrain] = 0.000
+IoU class 18 [pole] = 0.018
+IoU class 19 [traffic-sign] = 0.000
+Lr: 9.227e-03 | Update: 1.843e-03 mean,2.956e-03 std | Epoch: [9][0/6] | Time 0.644 (0.455) | Data 0.330 (0.087) | Loss 1.7618 (1.7618) | acc 0.536 (0.536) | IoU 0.162 (0.162) | [0:00:02]
+Validation set:
+Time avg per batch 0.431
+Loss avg 5.0346
+Jaccard avg 0.8870
+WCE avg 4.1476
+Acc avg 0.156
+IoU avg 0.020
+IoU class 0 [unlabeled] = 0.000
+IoU class 1 [car] = 0.012
+IoU class 2 [bicycle] = 0.000
+IoU class 3 [motorcycle] = 0.000
+IoU class 4 [truck] = 0.000
+IoU class 5 [other-vehicle] = 0.000
+IoU class 6 [person] = 0.000
+IoU class 7 [bicyclist] = 0.000
+IoU class 8 [motorcyclist] = 0.000
+IoU class 9 [road] = 0.336
+IoU class 10 [parking] = 0.000
+IoU class 11 [sidewalk] = 0.000
+IoU class 12 [other-ground] = 0.000
+IoU class 13 [building] = 0.000
+IoU class 14 [fence] = 0.000
+IoU class 15 [vegetation] = 0.018
+IoU class 16 [trunk] = 0.000
+IoU class 17 [terrain] = 0.000
+IoU class 18 [pole] = 0.013
+IoU class 19 [traffic-sign] = 0.000
